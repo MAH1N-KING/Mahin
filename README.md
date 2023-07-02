@@ -22,4 +22,11 @@
 
  pip install bs4
 
- 
+ git clone https://github.com/MAH1N-KING/Mahin.git
+
+ cd Mahin
+
+ python Mahin.py
+
+￼
+[![IMG-20230701-WA0110.jpg](https://i.postimg.cc/Jh3ndNs4/IMG-20230701-WA0110.jpg)](https://postimg.cc/GB2d4sPZ)
